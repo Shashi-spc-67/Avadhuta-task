@@ -22,7 +22,7 @@ const encodeURL = (longURL) => {
     return hash.toString();
   };
 
-  const longURL = "https://www.flipkart.com/very/long/url";
+  const longURL = "https://www.myntra.com/very/long/url";
   const shortURL = encodeURL(longURL);
  
   console.log(`Original URL: ${longURL}`);

@@ -1,0 +1,53 @@
+.form{
+    margin: 70px;
+    height: 400px;
+    width: 500px;
+    /* border: 2px solid red; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(243, 140, 225);
+    border-radius: 50%;
+    box-shadow: 0px 0px 4px red;
+}
+.users{
+    height: 40px;
+    width: 270px;
+    border: none;
+    outline: none;
+    border-radius: 30px;
+    background-color: rgb(215, 244, 244);
+    padding: 20px; 
+    font-weight:bold;
+    color: rgb(11, 12, 12);
+    box-shadow: 0px 0px 4px red;
+}
+.passw{
+    height: 40px;
+    width: 270px;
+    border: none;
+    outline: none;
+    border-radius: 30px;
+    background-color: rgb(215, 244, 244);
+    padding: 20px; 
+    font-weight:bold;
+    color: rgb(7, 8, 8);
+    box-shadow: 0px 0px 4px red;
+}
+.sub{
+    height: 50px;
+    width: 270px;
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    background-color: rgb(246, 46, 46);
+    font-weight:bold;
+    color: azure;
+}
+.h1{
+    color: rgb(140, 4, 124);
+    font-weight: bolder;
+    margin-bottom: 30px;
+   text-shadow:  0px 0px 10px rgb(163, 235, 234);
+}
